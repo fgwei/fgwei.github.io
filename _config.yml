@@ -1,25 +1,64 @@
 # Site settings
-title: Fengguo (Hugo) Wei
-description: "I am a Ph.D. candidate in the department of Computing Science and Engineering at University of South Florida,
-and honored to be advised by <a href='http://www.cse.usf.edu/~xou/'>Dr.Xinming (Simon) Ou</a>. <br>Furthermore, I am a member of <a href='http://www.arguslab.org/'>Argus CyberSecurity Lab</a>."
+title: Hugo
+description: "Cyber security researcher with emphasis on design program analysis techniques and reverse engineering.
+              <br />I enjoy keeping myself up-to-date and playing with the latest and greatest."
 url: 'http://fgwei.arguslab.org'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Fengguo (Hugo) Wei'
   email: fwei@mail.usf.edu
-  facebook_username: fengguo.wei.9
   github_username:  fgwei
   linkedin_username:  fgwei
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+################
+# Header layout #
+################
+
+black-favicon: "images/black-lab-glass.ico"
+
+background-img: "../images/cover.jpg"
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Dream as if you'll live forever."
+  - text: "Live as if you'll die today."
+
+# sections
+sections:
+  - id: 'about'
+    name: 'About'
+    tpl: 'about.md'
+  - id: 'opensource'
+    name: 'Open-Source'
+    tpl: 'opensource.html'
+  - id: 'timeline'
+    name: 'Timeline'
+    tpl: 'timeline.html'
+
+############
+# 404 page #
+############
+
+404-img: "/images/labtocat.png"
+
+##################
+# GPG on Keybase #
+##################
+
+keybase-username: fgwei
+keybase-in-social: True
+keybase-in-footer: True
 
 # Build settings
 destination: _site
@@ -33,4 +72,4 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']

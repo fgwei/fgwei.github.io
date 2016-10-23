@@ -1,0 +1,62 @@
+- name: "Research Assisstant"
+  place: "ArgusLab"
+  website: "http://www.arguslab.org/"
+  icon: 'fa fa-search fa-fw'
+  title: 'Research'
+  date: 'Aug 2016 - Present'
+  desc: >
+          Design static analysis tool for Android framework.
+          <br />Detecting framework level vulnerabilities.
+- name: "Research Assisstant"
+  place: "ArgusLab"
+  website: "http://www.arguslab.org/"
+  icon: 'fa fa-search fa-fw'
+  title: 'Research'
+  date: 'Feb 2016 - Aug 2016'
+  desc: >
+          Android malware landscape study, malware behavior analysis,
+          malware technique evolution study.
+- name: "Ph.D. Candidate"
+  place: "USF"
+  website: "http://www.usf.edu/"
+  icon: 'fa fa-book fa-fw'
+  title: 'Education'
+  date: 'Aug 2015'
+  desc: >
+          Move to University of South Florida with Dr Simon Ou and continue my Ph.D. process.
+- name: "R&D Intern"
+  place: "SRA"
+  website: "https://www.sra.samsung.com/"
+  icon: 'fa fa-code fa-fw'
+  title: 'Work'
+  date: 'Jan. 2015 - Jul. 2015'
+  desc: >
+          Mobile system security design.
+          <br />Web application/android framework/android application code review. (I reviewed code for Samsung Knox Trust-zone application, and Samsung Pay.)
+          <br /> Static analysis tool design.
+- name: "Paper Presentation"
+  place: "CCS'14"
+  website: "https://www.sigsac.org/ccs/CCS2014/"
+  icon: 'fa fa-sign-language fa-fw'
+  title: 'Speak'
+  date: 'Nov. 2015'
+  desc: >
+          Mobile system security design.
+          <br />Web application/android framework/android application code review. (I reviewed code for Samsung Knox Trust-zone application, and Samsung Pay.)
+          <br /> Static analysis tool design.
+- name: "Research Assisstant"
+  place: "ArgusLab"
+  website: "http://www.arguslab.org/"
+  icon: 'fa fa-search fa-fw'
+  title: 'Research'
+  date: 'Oct. 2012 - Dec. 2014'
+  desc: >
+          We designed an approach to conducting static analysis for vetting Android apps, and built a generic framework, called <strong>Amandroid</strong>, which does inter-component, flow-/context-sensitive data flow analysis.
+- name: "Ph.D. candidate"
+  place: "KSU"
+  website: "http://www.k-state.edu/"
+  icon: 'fa fa-book fa-fw'
+  title: 'Education'
+  date: 'Aug. 2012 - Jul. 2015'
+  desc: >
+          Attended Ph.D. program at Kansas State University.
