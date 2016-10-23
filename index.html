@@ -6,6 +6,11 @@ section-type: index
 {% for section in site.sections %}
 {% assign loopindex = forloop.index | modulo: 2 %}
 <section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0px;">
-    {% include sections/{{section.tpl}} %}
+    {% if section.tpl contains ".html" %}
+        {% include sections/{{section.tpl}} %}
+    {% else %}
+        {% capture my-include %}{% include sections/{{section.tpl}} %}{% endcapture %}
+        {{ my-include | markdownify }}
+    {% endif %}
 </section>
 {% endfor %}

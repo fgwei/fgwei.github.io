@@ -2,19 +2,15 @@
   <div class="row">
     <div class="col-lg-12 text-center">
       <div class="navy-line"></div>
-      <h1><span>{{ page.title }}</span></h1>
+      <h1><span>About Me</span></h1>
     </div>
   </div>
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 text-center">
-    
-{% markdown %}
+    <div class="col-lg-8 col-lg-offset-2 text-center" markdown="1">
 
 I am a Ph.D. candidate in the department of Computer Science and Engineering at University of South Florida,
 and honored to be advised by [Dr.Xinming (Simon) Ou](http://www.cse.usf.edu/~xou/).
 Furthermore, I am a member of [Argus CyberSecurity Lab](http://www.arguslab.org/). 
-
-------------
 
 ## Research
 
@@ -33,9 +29,5 @@ is capable of finding real security issues and efficient enough in terms of anal
 Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/). 
 (Working with [Dr.Xinming (Simon) Ou](http://people.cis.ksu.edu/~xou/), [Dr.Robby](http://people.cis.ksu.edu/~robby/), 
 [Dr.Sankardas Roy](http://people.cis.ksu.edu/~sroy/))
-
-{% endmarkdown %}
-
-    </div>
-  </div>
-</div>
+    
+</div></div></div>
