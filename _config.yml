@@ -1,0 +1,36 @@
+# Site settings
+title: Fengguo (Hugo) Wei
+description: "I am a Ph.D. candidate in the department of Computing Science and Engineering at University of South Florida,
+and honored to be advised by <a href='http://www.cse.usf.edu/~xou/'>Dr.Xinming (Simon) Ou</a>. <br>Furthermore, I am a member of <a href='http://www.arguslab.org/'>Argus CyberSecurity Lab</a>."
+url: 'http://fgwei.arguslab.org'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Fengguo (Hugo) Wei'
+  email: fwei@mail.usf.edu
+  facebook_username: fengguo.wei.9
+  github_username:  fgwei
+  linkedin_username:  fgwei
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
