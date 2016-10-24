@@ -552,4 +552,7 @@ ul.social-buttons li a {
     }
 }
 
-.btn-rounded{border-radius:50px}
+.btn-rounded{
+    border-radius:50px;
+    font-size: 1.5em;
+}
