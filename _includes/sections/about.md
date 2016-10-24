@@ -208,8 +208,8 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 </div>
 <div class="col-lg-12" markdown="1">
 
-- The cover image is Huang Guo Shu Waterfall (also known as Yellow Fruit Tree Waterfall) near my hometown.
-It is the world third largest waterfalls located on the Baishui River in Anshun, Guizhou province, China.
+- The cover image is [Huang Guo Shu Waterfall](https://en.wikipedia.org/wiki/Huangguoshu_Waterfall) (also known as Yellow Fruit Tree Waterfall) near my hometown.
+It is the world third largest waterfall located on the Baishui (white water) River in Anshun, Guizhou province, China.
 
 </div>
 
