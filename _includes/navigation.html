@@ -16,7 +16,7 @@
           {% if site.black-favicon %}
             <img src="{{site.baseurl}}{{ site.black-favicon }}" alt="">
           {% endif %}
-          {% raw  %}{ {% endraw %}{{ site.author.name }}{% raw  %} }{% endraw %}
+          {% raw  %}{ {% endraw %}{{ site.title }}{% raw  %} }{% endraw %}
         </div>
       </a>
     </div>
@@ -26,12 +26,12 @@
         {% if page.section-type == "index" %}
           <!-- Scroll to section for each page in index -->
           {% for section in site.sections %}
-            <li><a class="page-scroll" href="#{{ section.id }}">{{ section.name }}</a></li>
+            <li><a class="page-scroll" href="#{{ section.id }}" style="padding: 15px 10px">{{ section.name }}</a></li>
           {% endfor %}
         {% else %}
           <!-- Error page -->
           {% for section in site.sections %}
-            <li><a href="/#{{ section.id }}"> {{ section.name }} </a></li>
+            <li><a href="/#{{ section.id }}" style="padding: 15px 10px"> {{ section.name }} </a></li>
           {% endfor %}
         {% endif %}
       </ul>

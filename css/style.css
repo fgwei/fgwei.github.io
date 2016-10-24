@@ -450,7 +450,7 @@ ul.social-buttons li a {
 
 .panel-title {
     margin: 0 0 5px 0;
-    font-size: 2.5em;
+    font-size: 1.5em;
     letter-spacing: 4px;
     color: #FFF;
 }
@@ -497,3 +497,59 @@ ul.social-buttons li a {
 .bs-callout-warning h4 {
     color: #aa6708;
 }
+
+.landing-page .testimonials {
+    padding-top: 80px;
+    padding-bottom: 90px;
+    background-color: #3385FF;
+    background-image: url('../images/landing/project.jpg');
+    position: relative;
+    background-attachment: fixed;
+}
+
+.testimonials--overlay {
+    display: block;
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(68, 68, 68, 0.2);
+    background-image: -webkit-linear-gradient(-410deg, rgba(68, 68, 68, 0.2) 10%, rgba(0, 0, 0, 0.5));
+    background-image: linear-gradient(140deg,rgba(68, 68, 68, 0.2) 10%, rgba(0, 0, 0, 0.5)); }
+
+@media (max-width: 1024px) {
+    .landing-page .testimonials {
+        background-attachment: scroll;
+    }
+}
+
+.landing-page .mytime {
+    padding-top: 80px;
+    padding-bottom: 90px;
+    background-color: #3385FF;
+    background-image: url('../images/landing/time.jpg');
+    position: relative;
+    background-attachment: fixed;
+}
+
+.mytime--overlay {
+    display: block;
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(68, 68, 68, 0.2);
+    background-image: -webkit-linear-gradient(-410deg, rgba(68, 68, 68, 0.2) 10%, rgba(0, 0, 0, 0.5));
+    background-image: linear-gradient(140deg,rgba(68, 68, 68, 0.2) 10%, rgba(0, 0, 0, 0.5)); }
+
+@media (max-width: 1024px) {
+    .landing-page .mytime {
+        background-attachment: scroll;
+    }
+}
+
+.btn-rounded{border-radius:50px}
