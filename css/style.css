@@ -426,7 +426,7 @@ body.landing-page {
     background-attachment: fixed;
 }
 
-@media (max-width: 980px) {
+@media (max-width: 1024px) {
     .panel-cover {
       background-attachment: scroll;
     }
