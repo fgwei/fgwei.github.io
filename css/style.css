@@ -556,3 +556,21 @@ ul.social-buttons li a {
     border-radius:50px;
     font-size: 1.5em;
 }
+
+.pinyin.tone4, .tone4 {
+    color: #0000ff;
+}
+.pinyin.tone1, .tone1 {
+    color: #ff0000;
+}
+.pinyin.tone2, .tone2 {
+    color: #d89000;
+}
+
+a.pinyin {
+    font-family: "arial unicode ms", "lucida sans unicode", sans-serif, serif;
+    text-decoration: none;
+    color: #555555;
+    font-size: 15px;
+    cursor: auto;
+}
