@@ -61,17 +61,17 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 
 <div class="bs-callout bs-callout-primary" id="amandroid">
   <h4>University of South Florida, Tampa, FL, USA</h4>
-  <p markdown="1">***Ph.D. student*** in Computer Science, August 2015 – Present</p>
+  <p markdown="1">**Ph.D. student** in Computer Science, August 2015 – Present</p>
 </div>
 
 <div class="bs-callout bs-callout-primary" id="amandroid">
   <h4>Kansas State University, Manhattan, KS, USA</h4>
-  <p markdown="1">***Ph.D. student** in Computer Science, August 2012 - August 2015</p>
+  <p markdown="1">**Ph.D. student** in Computer Science, August 2012 - August 2015</p>
 </div>
 
 <div class="bs-callout bs-callout-primary" id="amandroid">
   <h4>People’s Public Security University, Beijing, China</h4>
-  <p markdown="1">***B.S.*** in Computer Crime Investigation, September 2008 - June 2012</p>
+  <p markdown="1">**B.S.** in Computer Crime Investigation, September 2008 - June 2012</p>
 </div>
 
 </div></div>
