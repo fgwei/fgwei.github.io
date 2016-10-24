@@ -423,7 +423,6 @@ body.landing-page {
     position: relative;
     padding: 0;
     height: 100%;
-    background-attachment: fixed;
 }
 
 .user-image {
