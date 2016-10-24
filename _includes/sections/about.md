@@ -6,7 +6,7 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 text-center" markdown="1">
+    <div class="col-lg-8 col-lg-offset-2 text-left" markdown="1">
 
 I am a Ph.D. candidate in the department of Computer Science and Engineering at University of South Florida,
 and honored to be advised by [Dr.Xinming (Simon) Ou](http://www.cse.usf.edu/~xou/).

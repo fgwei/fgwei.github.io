@@ -3,7 +3,7 @@ title: Hugo
 description: "Cyber security researcher with emphasis on design program analysis techniques and reverse engineering.
               <br />I enjoy keeping myself up-to-date and playing with the latest and greatest."
 url: 'http://fgwei.arguslab.org'
-# google_analytics: 'UA-XXXXXX-X'
+google-tracking-id: 'UA-86179253-1'
 
 author:
   name: 'Fengguo (Hugo) Wei'
