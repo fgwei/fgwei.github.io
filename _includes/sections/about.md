@@ -38,7 +38,7 @@ Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/)
 </div>
 <div class="col-lg-12" markdown="1">
 
-- Based upon Amandroid work to design a comprehensive Android application analysis tool chain.
+- `Android static analysis tool chain building`: Based upon Amandroid work to design a comprehensive Android application analysis tool chain.
 Then, apply it into domains like: vulnerability finding, malware detection, etc.
 The current open source tools including: [Argus-SAF](https://github.com/arguslab/Argus-SAF) (Amandroid is a submodule),
 Argus-CIT (code inspection IDE plugin for [eclipse](https://github.com/fgwei/argus-cit) and 
@@ -48,7 +48,7 @@ Argus-CIT (code inspection IDE plugin for [eclipse](https://github.com/fgwei/arg
 </div>
 <div class="col-lg-12" markdown="1">
     
-- Android malware categorization and landscape study. 
+- `Android malware categorization and landscape study`: 
 By utilizing the tool chains I built during last couple years, 
 I perform a large-scale landscape study to revealing the new threats and evolving trends of Android malware.
     
@@ -59,17 +59,17 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
     
 ## Education
 
-<div class="bs-callout bs-callout-primary" id="amandroid">
+<div class="col-lg-12 bs-callout bs-callout-primary">
   <h4>University of South Florida, Tampa, FL, USA</h4>
   <p markdown="1">**Ph.D. student** in Computer Science, August 2015 – Present</p>
 </div>
 
-<div class="bs-callout bs-callout-primary" id="amandroid">
+<div class="col-lg-12 bs-callout bs-callout-primary">
   <h4>Kansas State University, Manhattan, KS, USA</h4>
   <p markdown="1">**Ph.D. student** in Computer Science, August 2012 - August 2015</p>
 </div>
 
-<div class="bs-callout bs-callout-primary" id="amandroid">
+<div class="col-lg-12 bs-callout bs-callout-primary">
   <h4>People’s Public Security University, Beijing, China</h4>
   <p markdown="1">**B.S.** in Computer Crime Investigation, September 2008 - June 2012</p>
 </div>
@@ -80,7 +80,7 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 
 ## Industry Experience
 
-<div class="bs-callout bs-callout-warning" id="amandroid">
+<div class="col-lg-12 bs-callout bs-callout-warning">
   <h4>B2B Lab, Samsung Research America, Mountain View, CA</h4>
   <p markdown="1">**Research & Development Intern**, January 2015 - Present</p>
 </div>
@@ -174,22 +174,28 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 
 ## Publications
 
+<div class="col-lg-12" markdown="1">
+
 **Papers:**
 
+</div>
 <div class="col-lg-12" markdown="1">
 
 - Fengguo Wei, Sankardas Roy, Xinming Ou, Robby. [Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps](http://people.cis.ksu.edu/~fgwei/resources/papers/AmandroidCCS14.pdf). In 21st ACM Conference on Computer and Communications Security ([CCS 2014](http://www.sigsac.org/ccs/CCS2014/)), Scottsdale, AZ, USA, Nov, 2014.
 
 </div>
 
+<div class="col-lg-12" markdown="1">
+
 **Posters:**
 
+</div>
 <div class="col-lg-12" markdown="1">
 
 - Fengguo Wei, Sankardas Roy, Xinming Ou, Robby. A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps. [Oakland 2014](http://www.ieee-security.org/TC/SP2014/).
 
 </div>
-<div class="bs-callout bs-callout-default">
+<div class="col-lg-12 bs-callout bs-callout-default">
   <p markdown="1">The documents contained in these pages are included to ensure timely dissemination of scholarly and technical work on a non-commercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.</p>
 </div>
 
