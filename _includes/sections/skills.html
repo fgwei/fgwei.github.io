@@ -12,7 +12,7 @@
             <div class="col-lg-1 col-lg-offset-2 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
                 <p style="margin-bottom: 5px; color: #aeaeae">{{ skill.name }}</p>
             </div>
-            <div class="col-lg-7 wow  {% if loopindex == 1 %} fadeInRight {% else %} fadeInLeft {% endif %}">
+            <div class="col-lg-7 wow  fadeInLeft">
                 <div class="progress progress-bar-default">
                     <div style="width: {{ skill.percentage }}%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="{{ skill.percentage }}" role="progressbar" class="progress-bar">
                     </div>
