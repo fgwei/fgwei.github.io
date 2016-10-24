@@ -423,6 +423,13 @@ body.landing-page {
     position: relative;
     padding: 0;
     height: 100%;
+    background-attachment: fixed;
+}
+
+@media (max-width: 980px) {
+    .panel-cover {
+      background-attachment: scroll;
+    }
 }
 
 .user-image {
