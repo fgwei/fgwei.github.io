@@ -169,6 +169,4 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 
 </div></div>
 
-<br /><br />
-
 </div></div></div>
