@@ -181,7 +181,7 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 </div>
 <div class="col-lg-12" markdown="1">
 
-- Fengguo Wei, Sankardas Roy, Xinming Ou, Robby. [Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps](http://people.cis.ksu.edu/~fgwei/resources/papers/AmandroidCCS14.pdf). In 21st ACM Conference on Computer and Communications Security ([CCS 2014](http://www.sigsac.org/ccs/CCS2014/)), Scottsdale, AZ, USA, Nov, 2014.
+- Fengguo Wei, Sankardas Roy, Xinming Ou, Robby. [Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps](resources/papers/AmandroidCCS14.pdf). In 21st ACM Conference on Computer and Communications Security ([CCS 2014](http://www.sigsac.org/ccs/CCS2014/)), Scottsdale, AZ, USA, Nov, 2014.
 
 </div>
 
