@@ -5,15 +5,25 @@
       <h1><span>About Me</span></h1>
     </div>
   </div>
-  <div class="row">
-    <div class="col-lg-10 col-lg-offset-1 text-left" markdown="1">
+  <div id="primary" class="content-area full-width">
+    <main id="main" class="site-main full-width" role="main">
+        <div class="fl-builder-content fl-builder-content-4135 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="4135" markdown="1">
+
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
+    <div class="wow animated fadeIn" markdown="1">
+
+<p style="margin-bottom:5px" markdown="1">
 
 I am a Ph.D. candidate in the department of Computer Science and Engineering at University of South Florida,
 and honored to be advised by [Dr.Xinming (Simon) Ou](http://www.cse.usf.edu/~xou/).
 Furthermore, I am a member of [Argus CyberSecurity Lab](http://www.arguslab.org/). 
 
-<div class="row">
-    <div class="col-lg-12 wow fadeInLeft" style="border: 1px solid darkgoldenrod" markdown="1">
+</p>
+
+</div></div>
+
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
+    <div class="wow animated fadeIn" markdown="1">
 
 ## Research
     
@@ -32,8 +42,8 @@ Based on [Amandroid](http://pag.arguslab.org/argus-saf/),
 we applied certain security applications on popular Android apps, and the results shows that the tool 
 is capable of finding real security issues and efficient enough in terms of analysis time. 
 Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/). 
-(Working with [Dr.Xinming (Simon) Ou](http://people.cis.ksu.edu/~xou/), [Dr.Robby](http://people.cis.ksu.edu/~robby/), 
-[Dr.Sankardas Roy](http://people.cis.ksu.edu/~sroy/))
+(Working with [Dr. Xinming (Simon) Ou](http://people.cis.ksu.edu/~xou/), [Dr. Robby](http://people.cis.ksu.edu/~robby/), 
+[Dr. Sankardas Roy](http://people.cis.ksu.edu/~sroy/))
     
 </div>
 <div class="col-lg-12" markdown="1">
@@ -54,8 +64,8 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
     
 </div></div>
 </div></div>
-<div class="row">
-    <div class="col-lg-12 wow fadeInLeft" style="border: 1px solid darkgoldenrod" markdown="1">
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
+    <div class="wow animated fadeIn" markdown="1">
     
 ## Education
 
@@ -75,8 +85,8 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 </div>
 
 </div></div>
-<div class="row">
-    <div class="col-lg-12 wow fadeInLeft" style="border: 1px solid darkgoldenrod" markdown="1">
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
+    <div class="wow animated fadeIn" markdown="1">
 
 ## Industry Experience
 
@@ -86,8 +96,8 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 </div>
 
 </div></div>
-<div class="row">
-    <div class="col-lg-12 wow fadeInLeft" style="border: 1px solid darkgoldenrod" markdown="1">
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
+    <div class="wow animated fadeIn" markdown="1">
 
 ## Professional Activities
 
@@ -160,8 +170,8 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 
 </div></div>
 </div></div>
-<div class="row">
-    <div class="col-lg-12 wow fadeInLeft" style="border: 1px solid darkgoldenrod" markdown="1">
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
+    <div class="wow animated fadeIn" markdown="1">
 
 ## Professional Affiliations
 
@@ -169,8 +179,8 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 
 </div></div>
 
-<div class="row">
-    <div class="col-lg-12 wow fadeInLeft" style="border: 1px solid darkgoldenrod" markdown="1">
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
+    <div class="wow animated fadeIn" markdown="1">
 
 ## Publications
 
@@ -200,9 +210,8 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 </div>
 
 </div></div>
-
-<div class="row">
-    <div class="col-lg-12 wow fadeInLeft" style="border: 1px solid darkgoldenrod" markdown="1">
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
+    <div class="wow animated fadeIn" markdown="1">
 
 ## miscellaneous
 
@@ -220,4 +229,4 @@ It is the world third largest waterfall located on the Baishui (white water) Riv
 
 </div></div>
 
-</div></div></div>
+</div></main></div></div>

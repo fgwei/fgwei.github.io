@@ -1,13 +1,27 @@
-<footer class="footer gray-bg">
-  <p><br><br></p>
-
-  <div class="container text-center">
-    <p>Copyright &copy; {{ site.author.name }} {{ site.time | date: "%Y" }}</p>
-    {% if site.keybase-in-footer %}
-    <p style="font-size: 16px;"><a href="https://keybase.io/{{site.keybase-username}}" target="_blank"><i
-            class="fa fa-key"></i> {{site.keybase-username}} on Keybase</a></p>
-    {% endif %}
+<footer class="footer">
+  <div class="site-info">
+    <div class="site-info-contact">
+      <div class="keep-touch">
+        <div class="intouch">Office</div>
+        <a href='http://maps.google.com/maps?q=University of South Florida College of Engineering' target="_blank">
+          <p>Computer Science and Engineering, <br /> 226 ENB, <br /> University of South Florida, <br /> Tampa, FL.</p>
+        </a>
+      </div>
+      <div class="contact-footer">
+        <div class="intouch">Get in touch</div>
+        <a class="mailme" href="mailto:fwei@mail.usf.edu">fwei@mail.usf.edu</a>
+      </div>
+      <div class="newsletter-footer">
+        <div class="intouch" style="color:transparent">Newsletter</div>
+      </div>
+    </div>
+    <div class="copyright">
+      <p>Copyright &copy; {{ site.author.name }} {{ site.time | date: "%Y" }}</p>
+      {% if site.keybase-in-footer %}
+      <p style="font-size: 16px;"><a href="https://keybase.io/{{site.keybase-username}}" target="_blank"><i
+              class="fa fa-key"></i> {{site.keybase-username}} on Keybase</a></p>
+      {% endif %}
+    </div>
   </div>
-  <p><br><br></p>
 </footer>
 <!-- Footer End -->

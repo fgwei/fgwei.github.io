@@ -56,10 +56,6 @@ sections:
     name: 'Timeline'
     tpl: 'timeline.html'
     css: 'mytime'
-  - id: 'contact'
-    name: 'Contact'
-    tpl: 'contact.html'
-    css: ''
 
 ############
 # 404 page #

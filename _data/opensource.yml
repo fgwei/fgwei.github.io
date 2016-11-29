@@ -5,7 +5,7 @@
 - name: 'jawa-compiler'
   url: '/arguslab/jawa-compiler'
   img: 'images/landing/jawa-compiler.png'
-  desc: 'Jawa is an intemediate representation (IR) language for Java-like bytecode (eg., Java bytecode, Dalvik bytecode). Jawa compiler provides compilation support for Jawa language.'
+  desc: 'Jawa is an intemediate representation (IR) language for Java-like bytecode (e.g., Java bytecode, Dalvik bytecode). Jawa compiler provides compilation support for Jawa language.'
 - name: 'jawa2java'
   url: '/arguslab/jawa2java'
   img: 'images/landing/jawa2java.png'
