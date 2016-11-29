@@ -477,18 +477,21 @@ ul.social-buttons li a {
 }
 .bs-callout-default {
     border-left-color: #777;
+    background-color: #f1f1f1;
 }
 .bs-callout-default h4 {
     color: #777;
 }
 .bs-callout-primary {
     border-left-color: #428bca;
+    background-color: #f1f1f1;
 }
 .bs-callout-primary h4 {
     color: #428bca;
 }
 .bs-callout-warning {
     border-left-color: #aa6708;
+    background-color: #f1f1f1;
 }
 .bs-callout-warning h4 {
     color: #aa6708;
