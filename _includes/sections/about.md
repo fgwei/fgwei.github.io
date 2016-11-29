@@ -92,7 +92,7 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 
 <div class="col-lg-12 bs-callout bs-callout-warning">
   <h4>B2B Lab, Samsung Research America, Mountain View, CA</h4>
-  <p markdown="1">**Research & Development Intern**, January 2015 - Present</p>
+  <p markdown="1">**Research & Development Intern**, January 2015 - July 2015</p>
 </div>
 
 </div></div>
