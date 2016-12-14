@@ -36,9 +36,9 @@ My main research interests are in the areas of computer networks and security wi
 A large portion of those issues can be resolved by addressing one core problem – capturing semantic behaviors of the app 
 such as object points-to and control-/data-flow information. 
 Thus, we designed an approach to conducting static analysis for vetting Android apps, 
-and built a generic framework, called [Amandroid](http://pag.arguslab.org/argus-saf/), 
+and built a generic framework, called [Amandroid](http://pag.arguslab.org/argus-saf),
 which does inter-component, flow-/context-sensitive data flow analysis. 
-Based on [Amandroid](http://pag.arguslab.org/argus-saf/), 
+Based on [Amandroid](http://pag.arguslab.org/argus-saf),
 we applied certain security applications on popular Android apps, and the results shows that the tool 
 is capable of finding real security issues and efficient enough in terms of analysis time. 
 Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/). 
