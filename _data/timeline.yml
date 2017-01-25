@@ -41,9 +41,7 @@
   title: 'Speak'
   date: 'Nov. 2015'
   desc: >
-          Mobile system security design.
-          <br />Web application/android framework/android application code review. (I reviewed code for Samsung Knox Trust-zone application, and Samsung Pay.)
-          <br /> Static analysis tool design.
+          <a href="http://fgwei.arguslab.org/resources/papers/AmandroidCCS14.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps</a>
 - name: "Research Assisstant"
   place: "ArgusLab"
   website: "http://www.arguslab.org/"
