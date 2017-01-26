@@ -223,7 +223,7 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 
 <div class="col-lg-12" markdown="1">
 
-- I play a little Harmonica and Piano, non-professional, just for enjoyment.
+- I play a little Harmonica ([Blues harp](https://en.wikipedia.org/wiki/Richter-tuned_harmonica) and [Chromatic](https://en.wikipedia.org/wiki/Chromatic_harmonica)) and Piano, non-professional, just for enjoyment.
 
 </div>
 
