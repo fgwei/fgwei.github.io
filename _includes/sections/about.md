@@ -220,6 +220,19 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 - My chinese name is `魏丰国` [<a class="pinyin tone4" href="/mp3/wei4.mp3" id="audiolink">wèi</a> <a class="pinyin tone1 " href="/mp3/feng1.mp3">fēng</a> <a class="pinyin tone2 " href="/mp3/guo2.mp3">guó</a>]
 
 </div>
+
+<div class="col-lg-12" markdown="1">
+
+- I play a little Harmonica and Piano, non-professional, just for enjoyment.
+
+</div>
+
+<div class="col-lg-12" markdown="1">
+
+- I am currently 5th kyū in [Aikido](https://en.wikipedia.org/wiki/Aikido). Aikido (Japanese: 合気道) [aikiꜜdoː] is a modern Japanese martial art developed by [Morihei Ueshiba](https://en.wikipedia.org/wiki/Morihei_Ueshiba) as a synthesis of his martial studies, philosophy, and religious beliefs.
+
+</div>
+
 <div class="col-lg-12" markdown="1">
 
 - The cover image is [Huang Guo Shu Waterfall](https://en.wikipedia.org/wiki/Huangguoshu_Waterfall) (also known as Yellow Fruit Tree Waterfall) near my hometown.
