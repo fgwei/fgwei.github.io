@@ -81,7 +81,7 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 
 <div class="col-lg-12 bs-callout bs-callout-primary">
   <h4>People’s Public Security University, Beijing, China</h4>
-  <p markdown="1">**B.S.** in Computer Crime Investigation, September 2008 - June 2012</p>
+  <p markdown="1">**B.S.** in Computer Science, September 2008 - June 2012</p>
 </div>
 
 </div></div>
