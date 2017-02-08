@@ -60,7 +60,12 @@ Argus-CIT (code inspection IDE plugin for [eclipse](https://github.com/fgwei/arg
     
 - `Android malware categorization and landscape study`: 
 By utilizing the tool chains I built during last couple years, 
-I perform a large-scale landscape study to revealing the new threats and evolving trends of Android malware.
+I perform a large-scale landscape study to revealing 
+the new threats and evolving trends of Android malware. 
+This work presents a detailed picture of current malware 
+behaviors and their evolving trend, 
+which provides the Android malware research community 
+a better ground truth dataset for evaluating their approach.
     
 </div></div>
 </div></div>
@@ -90,9 +95,28 @@ I perform a large-scale landscape study to revealing the new threats and evolvin
 
 ## Industry Experience
 
-<div class="col-lg-12 bs-callout bs-callout-warning">
+<div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
   <h4>B2B Lab, Samsung Research America, Mountain View, CA</h4>
-  <p markdown="1">**Research & Development Intern**, January 2015 - July 2015</p>
+  **Research & Development Intern**, January 2015 - July 2015\\
+  Supervisor: Wu Zhou, Manager: Michael Grace
+  
+  Our team is responsible of providing security solutions for Samsung’s internal products. My work includes:
+  
+  - Perform static analysis and manual analysis for Samsung Know Trust-zone applications, and Samsung Pay backend framework codes.
+  - Designed an integrated android application reverse engineering and code analysis tool called Argus-CIT (Argus Code Inspect Tool), and implemented as a plugin for IntelliJ.
+  
+</div>
+
+<div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
+  <h4>China Academy of Launch Vehicle Technology, Beijing, China</h4>
+  
+  **Research Intern**, June 2011 – August 2011\\
+  Supervisor: Shuliang Ren
+  
+  Central Control with MES System Integration Development.
+  <div class="col-lg-12" markdown="1">
+  - Participated in the control system interface development of external system which including the enterprise service bus (ESB), Web service and XML.
+  </div>
 </div>
 
 </div></div>
