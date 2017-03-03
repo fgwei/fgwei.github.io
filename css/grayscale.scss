@@ -468,6 +468,12 @@ body {
     }
 }
 
+@media (max-width: 1024px) {
+    #particles-js {
+        background-attachment: scroll;
+    }
+}
+
 .content {
     z-index: 1;
     text-align: center;
