@@ -213,6 +213,14 @@ a better ground truth dataset for evaluating their approach.
 **Papers:**
 
 </div>
+
+<div class="col-lg-12" markdown="1">
+
+* Fengguo Wei, Yuping Li, Sankardas Roy, Xinming Ou, and Wu Zhou. [Deep Ground Truth Analysis of Current Android Malware.](http://www.arguslab.org/documents/tech_reports/2017/amd_fgwei_2017.pdf)
+Technical report [2017-2](http://www.arguslab.org/tech_reports/2017-2), University of South Florida, Computer Science and Engineering Department. February, 2017.
+
+</div>
+
 <div class="col-lg-12" markdown="1">
 
 - Fengguo Wei, Sankardas Roy, Xinming Ou, Robby. [Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps](resources/papers/AmandroidCCS14.pdf). In 21st ACM Conference on Computer and Communications Security ([CCS 2014](http://www.sigsac.org/ccs/CCS2014/)), Scottsdale, AZ, USA, Nov, 2014.
