@@ -1,68 +1,62 @@
-<header class="intro panel-cover">
-  <div class="intro-body panel-main">
-    <div class="container panel-main__inner panel-inverted">
-      <div class="row panel-main__content">
-        <div class="col-md-10 col-md-offset-1">
-          <!--<h1 class="brand-heading">&nbsp;</h1>-->
-          <span class="intro-text"></span>
-          <h5>&nbsp;</h5>
-          <a href="#about" title="About Me" class="page-scroll">
-            <img src="images/profile.jpg" class="user-image" alt="My Profile Photo">
-            <h1 class="panel-cover__title panel-title">{{ site.author.name }}</h1>
+<div id="particles-js">
+  <div class="content">
+    <h1>
+      <span class="intro-text"></span>
+      <h5>&nbsp;</h5>
+      <a href="#about" title="About Me" class="page-scroll">
+        <img src="images/profile.jpg" class="user-image" alt="My Profile Photo">
+        <h1 class="panel-cover__title panel-title">{{ site.author.name }}</h1>
+      </a>
+      <hr class="panel-cover__divider">
+      <p class="panel-cover__description">{{ site.description }}</p>
+      <hr class="panel-cover__divider panel-cover__divider--secondary">
+    </h1>
+
+    <ul class="list-inline social-buttons">
+
+      {% if site.author.linkedin_username %}
+        <!-- LinkedIn -->
+        <li>
+          <a href="https://www.linkedin.com/in/{{ site.author.linkedin_username }}" target="_blank">
+            <i class="fa fa-linkedin fa-fw"></i>
           </a>
-          <hr class="panel-cover__divider">
-          <p class="panel-cover__description">{{ site.description }}</p>
-          <hr class="panel-cover__divider panel-cover__divider--secondary">
+        </li>
+      {% endif %}
 
-            <ul class="list-inline social-buttons">
+      {% if site.author.github_username %}
+        <!-- GitHub -->
+        <li>
+          <a href="https://www.github.com/{{ site.author.github_username }}" target="_blank">
+            <i class="fa fa-github fa-fw"></i>
+          </a>
+        </li>
+      {% endif %}
 
-              {% if site.author.linkedin_username %}
-                <!-- LinkedIn -->
-                <li>
-                  <a href="https://www.linkedin.com/in/{{ site.author.linkedin_username }}" target="_blank">
-                    <i class="fa fa-linkedin fa-fw"></i>
-                  </a>
-                </li>
-              {% endif %}
+      {% if site.keybase-in-social %}
+        <li><a href="https://keybase.io/{{site.keybase-username}}" target="_blank"><i class="fa fa-key fa-fw"></i></a></li>
+      {% endif %}
 
-              {% if site.author.github_username %}
-                <!-- GitHub -->
-                <li>
-                  <a href="https://www.github.com/{{ site.author.github_username }}" target="_blank">
-                    <i class="fa fa-github fa-fw"></i>
-                  </a>
-                </li>
-              {% endif %}
+      {% if site.author.email %}
+        <!-- Email -->
+        <li>
+          <a href="mailto:{{ site.author.email }}" target="_blank">
+            <i class="fa fa-envelope-o fa-fw"></i>
+          </a>
+        </li>
+      {% endif %}
 
-              {% if site.keybase-in-social %}
-                <li><a href="https://keybase.io/{{site.keybase-username}}" target="_blank"><i class="fa fa-key fa-fw"></i></a></li>
-              {% endif %}
+      <li>
+    <a href="https://scholar.google.com/citations?user=bbn3hXQAAAAJ&hl=en" target="_blank">
+      <i class="fa fa-bar-chart fa-fw"></i>
+    </a>
+    </li>
 
-              {% if site.author.email %}
-                <!-- Email -->
-                <li>
-                  <a href="mailto:{{ site.author.email }}" target="_blank">
-                    <i class="fa fa-envelope-o fa-fw"></i>
-                  </a>
-                </li>
-              {% endif %}
+    <li>
+      <a href="resources/cv.pdf" target="_blank">
+        <i class="fa fa-file-pdf-o fa-fw"></i>
+      </a>
+    </li>
 
-                <li>
-                  <a href="https://scholar.google.com/citations?user=bbn3hXQAAAAJ&hl=en" target="_blank">
-                    <i class="fa fa-bar-chart fa-fw"></i>
-                  </a>
-                </li>
-
-                <li>
-                  <a href="resources/cv.pdf" target="_blank">
-                    <i class="fa fa-file-pdf-o fa-fw"></i>
-                  </a>
-                </li>
-
-              </ul>
-        </div>
-      </div>
-    </div>
+    </ul>
   </div>
-  <div class="panel-cover--overlay" />
-</header>
+</div>

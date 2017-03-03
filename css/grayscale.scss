@@ -4,6 +4,10 @@
 @import "variables";
 @import "mixins";
 
+$main: #1a222c;
+$sec: #4B5664;
+$cut: 768px;
+
 /*!
  * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
@@ -155,47 +159,47 @@ a {
     }
 }
 
-.intro {
-    display: table;
-    width: 100%;
-    height: auto;
-    padding: 100px 0;
-    text-align: center;
-    color: $intro-text-color;
-    {% if site.background-img %}
-    background: url({{ site.background-img }}) no-repeat bottom center scroll;
-    {% endif %}
-    background-color: $header-background-color;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    .intro-body {
-        display: table-cell;
-        vertical-align: middle;
-        .brand-heading {
-            font-size: 40px;
-        }
-        .intro-text {
-            font-size: 18px;
-            @if $navbar-text-shadow {
-                text-shadow: 1px 0 1px #000;
-            }
-        }
-    }
-    @media(min-width:768px) {
-        height: 100%;
-        padding: 0;
-        .intro-body {
-            .brand-heading {
-                font-size: 100px;
-            }
-            .intro-text {
-                font-size: 26px;
-            }
-        }
-    }
-}
+//.intro {
+//    display: table;
+//    width: 100%;
+//    height: auto;
+//    padding: 100px 0;
+//    text-align: center;
+//    color: $intro-text-color;
+//    {% if site.background-img %}
+//    background: url({{ site.background-img }}) no-repeat bottom center scroll;
+//    {% endif %}
+//    background-color: $header-background-color;
+//    -webkit-background-size: cover;
+//    -moz-background-size: cover;
+//    background-size: cover;
+//    -o-background-size: cover;
+//    .intro-body {
+//        display: table-cell;
+//        vertical-align: middle;
+//        .brand-heading {
+//            font-size: 40px;
+//        }
+//        .intro-text {
+//            font-size: 18px;
+//            @if $navbar-text-shadow {
+//                text-shadow: 1px 0 1px #000;
+//            }
+//        }
+//    }
+//    @media(min-width:768px) {
+//        height: 100%;
+//        padding: 0;
+//        .intro-body {
+//            .brand-heading {
+//                font-size: 100px;
+//            }
+//            .intro-text {
+//                font-size: 26px;
+//            }
+//        }
+//    }
+//}
 
 @-webkit-keyframes pulse {
     from {
@@ -444,4 +448,63 @@ body {
 
 .fourofour {
   border: 1px solid $primary-color !important;
+}
+
+#particles-js {
+    {% if site.background-img %}
+    background: url({{ site.background-img }}) no-repeat bottom center scroll;
+    {% endif %}
+    background-color: $main;
+    display: block;
+    vertical-align: bottom;
+    width: 100vw;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    .particles-js-canvas-el {
+        width:100vw !important;
+        height:100vh !important;
+    }
+}
+
+.content {
+    z-index: 1;
+    text-align: center;
+    color:#FFF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0 auto;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    .site-title {
+        font-size: 50px;
+        display: block;
+        line-height: 1;
+        @media only screen and (min-width:$cut){
+            margin: 0;
+            font-size: 100px;
+        }
+    }
+    .site-description {
+        font-size: 20px;
+        display: block;
+        line-height: 1;
+        margin: 5px 0 10px 0;
+        @media only screen and (min-width:$cut){
+            font-size: 40px;
+        }
+    }
+    .link {
+        color: #FFF;
+        display: inline-flex;
+        justify-content: space-between;
+        text-decoration: none;
+        font-size: 15px;
+        margin: 10px;
+        @media only screen and (min-width:$cut){
+            font-size: 20px;
+        }
+    }
 }
