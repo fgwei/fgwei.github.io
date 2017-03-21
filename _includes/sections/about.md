@@ -122,80 +122,7 @@ for evaluating their approach.
 </div>
 
 </div></div>
-<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
-    <div class="wow animated fadeIn" markdown="1">
 
-## Professional Activities
-
-**Reviewer:**
-
-<div class="row">
-    <div class="col-lg-12" markdown="1">
-    
-- 6th Annual ACM CCS Workshop on Security and Privacy in Smartphones and Mobile Devices (SPSM 2016)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 32nd Annual Computer Security Applications Conference (ACSAC 2016)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 23rd ACM Conference on Computer and Communications Security (CCS 2016)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 11th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2016)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 6th ACM Conference on Data and Application Security and Privacy (CODASPY 2016)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 24th USENIX Security Symposium (USENIX 2015)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2015)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- The 9th International Conference on Network and System Security (NSS 2015)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 30th Annual Computer Security Applications Conference (ACSAC 2014)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 9th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2014)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 12th International Conference on Privacy, Security and Trust (PST 2014)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 9th International Conference on Risks and Security of Internet and Systems (CRiSIS 2014)
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- 10th International Conference on Security and Privacy in Communication Networks (SecureComm 2014)
-
-</div></div>
-</div></div>
 <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
     <div class="wow animated fadeIn" markdown="1">
 
@@ -205,45 +132,6 @@ for evaluating their approach.
 
 </div></div>
 
-<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
-    <div class="wow animated fadeIn" markdown="1">
-
-## Publications
-
-<div class="col-lg-12" markdown="1">
-
-**Papers:**
-
-</div>
-
-<div class="col-lg-12" markdown="1">
-
-* [Deep Ground Truth Analysis of Current Android Malware](http://www.arguslab.org/documents/tech_reports/2017/amd_fgwei_2017.pdf). **Fengguo Wei**, Yuping Li, Sankardas Roy, Xinming Ou, and Wu Zhou.
-Technical report [2017-2](http://www.arguslab.org/tech_reports/2017-2), University of South Florida, Computer Science and Engineering Department. February, 2017.
-
-</div>
-
-<div class="col-lg-12" markdown="1">
-
-- [Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps](resources/papers/AmandroidCCS14.pdf). **Fengguo Wei**, Sankardas Roy, Xinming Ou, Robby. In 21st ACM Conference on Computer and Communications Security ([CCS 2014](http://www.sigsac.org/ccs/CCS2014/)), Scottsdale, AZ, USA, Nov, 2014.
-
-</div>
-
-<div class="col-lg-12" markdown="1">
-
-**Posters:**
-
-</div>
-<div class="col-lg-12" markdown="1">
-
-- [A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps](http://www.ieee-security.org/TC/SP2014/posters/WEIFE.pdf). **Fengguo Wei**, Sankardas Roy, Xinming Ou, Robby. [Oakland 2014](http://www.ieee-security.org/TC/SP2014/).
-
-</div>
-<div class="col-lg-12 bs-callout bs-callout-default">
-  <p markdown="1">The documents contained in these pages are included to ensure timely dissemination of scholarly and technical work on a non-commercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.</p>
-</div>
-
-</div></div>
 <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
     <div class="wow animated fadeIn" markdown="1">
 
