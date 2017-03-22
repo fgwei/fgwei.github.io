@@ -41,9 +41,7 @@ which does inter-component, flow-/context-sensitive data flow analysis.
 Based on [Amandroid](http://pag.arguslab.org/argus-saf),
 we applied certain security applications on popular Android apps, and the results shows that the tool 
 is capable of finding real security issues and efficient enough in terms of analysis time. 
-Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/). 
-(Working with [Dr. Xinming (Simon) Ou](http://people.cis.ksu.edu/~xou/), [Dr. Robby](http://people.cis.ksu.edu/~robby/), 
-[Dr. Sankardas Roy](http://people.cis.ksu.edu/~sroy/))
+Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/).
     
 </div>
 <div class="col-lg-12" markdown="1">
@@ -54,6 +52,7 @@ The current open source tools including: [Argus-SAF](https://github.com/arguslab
 Argus-CIT (code inspection IDE plugin for [eclipse](https://github.com/fgwei/argus-cit) and 
 [intellij](https://github.com/arguslab/argus-cit-intellij)), 
 [jawa-compiler](https://github.com/arguslab/jawa-compiler), [jawa2java](https://github.com/arguslab/jawa2java).
+For detailed information, please visit my project cite: [PAG](http://pag.arguslab.org/).
     
 </div>
 <div class="col-lg-12" markdown="1">
