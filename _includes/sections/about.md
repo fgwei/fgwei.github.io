@@ -65,7 +65,7 @@ This work presents a detailed picture of current malware
 behaviors and their evolving trend, 
 which provides the Android malware research community 
 a better ground truth dataset, 
-a.k.a. [Android Malware Dataset (AMD)](http://androidmalwaredataset.org/),
+a.k.a. [Android Malware Dataset (AMD)](http://amd.arguslab.org/),
 for evaluating their approach.
     
 </div></div>
