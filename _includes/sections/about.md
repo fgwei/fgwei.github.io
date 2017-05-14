@@ -103,7 +103,7 @@ for evaluating their approach.
   
   Our team is responsible of providing security solutions for Samsung’s internal products. My work includes:
   
-  - Perform static analysis and manual analysis for Samsung Know Trust-zone applications, and Samsung Pay backend framework codes.
+  - Perform static analysis and manual analysis for Samsung KNOX Trust-zone applications, and Samsung Pay backend framework codes.
   - Designed an integrated android application reverse engineering and code analysis tool called Argus-CIT (Argus Code Inspect Tool), and implemented as a plugin for IntelliJ.
   
 </div>
