@@ -97,6 +97,15 @@ for evaluating their approach.
 ## Industry Experience
 
 <div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
+  <h4>Coverity R&D Team, Synopsys Inc, San Francisco, CA</h4>
+  **Research & Development Intern**, May 2017 - August 2017\\
+  Manager: Timothy Alper
+  
+  I am working in the SIG R&D team to design Android&IOS security checkers for Coverity static analysis tool.
+  
+</div>
+
+<div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
   <h4>B2B Lab, Samsung Research America, Mountain View, CA</h4>
   **Research & Development Intern**, January 2015 - July 2015\\
   Supervisor: Wu Zhou, Manager: Michael Grace
