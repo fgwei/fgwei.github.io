@@ -1,9 +1,17 @@
+- name: "R&D Intern"
+  place: "Synopsys"
+  website: "https://www.synopsys.com/"
+  icon: 'fa fa-code fa-fw'
+  title: 'Work'
+  date: 'May 2017 - Present'
+  desc: >
+          Design Android&IOS security Checker for Coverity.
 - name: "Research Assisstant"
   place: "ArgusLab"
   website: "http://www.arguslab.org/"
   icon: 'fa fa-search fa-fw'
   title: 'Research'
-  date: 'Aug 2016 - Present'
+  date: 'Aug 2016 - May 2017'
   desc: >
           Design static analysis tool for Android framework.
           <br />Detecting framework level vulnerabilities.
