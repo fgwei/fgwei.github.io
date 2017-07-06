@@ -97,11 +97,11 @@ for evaluating their approach.
 ## Industry Experience
 
 <div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
-  <h4>Coverity R&D Team, Synopsys Inc, San Francisco, CA</h4>
+  <h4>SIG, Synopsys Inc, San Francisco, CA</h4>
   **Research & Development Intern**, May 2017 - August 2017\\
-  Manager: Timothy Alper
+  Supervisor: Aaron Hurst, Manager: Timothy Alper
   
-  I am working in the SIG R&D team to design Android&IOS security checkers for Coverity static analysis tool.
+  I am working in the Software Integrity Group (SIG) R&D team to design WEB&Android&IOS security checkers for Coverity static analysis tool.
   
 </div>
 

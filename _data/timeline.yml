@@ -1,9 +1,17 @@
+- name: "Paper Presentation"
+  place: "DIMVA'17"
+  website: "https://itsec.cs.uni-bonn.de/dimva2017/index.html"
+  icon: 'fa fa-sign-language fa-fw'
+  title: 'Speak'
+  date: 'Jul. 2017'
+  desc: >
+          <a href="http://www.fengguow.com/resources/papers/AMD-DIMVA17.pdf">Deep Ground Truth Analysis of Current Android Malware</a>
 - name: "R&D Intern"
   place: "Synopsys"
   website: "https://www.synopsys.com/"
   icon: 'fa fa-code fa-fw'
   title: 'Work'
-  date: 'May 2017 - Present'
+  date: 'May. 2017 - Present'
   desc: >
           Design Android&IOS security checker for Coverity.
 - name: "Research Assisstant"
@@ -11,7 +19,7 @@
   website: "http://www.arguslab.org/"
   icon: 'fa fa-search fa-fw'
   title: 'Research'
-  date: 'Aug 2016 - May 2017'
+  date: 'Aug. 2016 - May. 2017'
   desc: >
           Design static analysis tool for Android framework.
           <br />Detecting framework level vulnerabilities.
@@ -20,7 +28,7 @@
   website: "http://www.arguslab.org/"
   icon: 'fa fa-search fa-fw'
   title: 'Research'
-  date: 'Feb 2016 - Aug 2016'
+  date: 'Feb. 2016 - Aug. 2016'
   desc: >
           Android malware landscape study, malware behavior analysis,
           malware technique evolution study.
@@ -29,7 +37,7 @@
   website: "http://www.usf.edu/"
   icon: 'fa fa-book fa-fw'
   title: 'Education'
-  date: 'Aug 2015'
+  date: 'Aug. 2015'
   desc: >
           Move to University of South Florida with Dr Simon Ou and continue my Ph.D. process.
 - name: "R&D Intern"

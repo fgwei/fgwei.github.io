@@ -4,6 +4,15 @@
 - name: Java
   percentage: 75
 
+- name: Groovy
+  percentage: 60
+
+- name: Python
+  percentage: 60
+
+- name: C/C++
+  percentage: 60
+
 - name: Linux/Shell
   percentage: 75
 
