@@ -42,7 +42,10 @@ Based on [Amandroid](http://pag.arguslab.org/argus-saf),
 we applied certain security applications on popular Android apps, and the results shows that the tool 
 is capable of finding real security issues and efficient enough in terms of analysis time. 
 Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/).
-    
+The Amandroid tool has been downloaded over 10,000 times as of Sep 2017 and
+become foundation of many research projects (cited over 180 times as of Sep
+2017).
+
 </div>
 <div class="col-lg-12" markdown="1">
 
@@ -67,6 +70,8 @@ which provides the Android malware research community
 a better ground truth dataset, 
 a.k.a. [Android Malware Dataset (AMD)](http://amd.arguslab.org/),
 for evaluating their approach.
+AMD have been shared with 50 research
+institute world-wide.
     
 </div></div>
 </div></div>
@@ -97,11 +102,20 @@ for evaluating their approach.
 ## Industry Experience
 
 <div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
+  <h4>JD.com American Technologies Corporation, Santa Clara, CA</h4>
+  **Research & Development Intern**, Sep 2017 - Nov 2017\\
+  Supervisor: Yueh-Hsun Lin
+  
+  I am working in the security group and doing code analysis related research.
+  
+</div>
+
+<div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
   <h4>SIG, Synopsys Inc, San Francisco, CA</h4>
   **Research & Development Intern**, May 2017 - August 2017\\
   Supervisor: Aaron Hurst, Manager: Timothy Alper
   
-  I am working in the Software Integrity Group (SIG) R&D team to design WEB&Android&IOS security checkers for Coverity static analysis tool.
+  I am working in the Software Integrity Group (SIG) R&D team to design WEB/Android/IOS security checkers for Coverity static analysis tool.
   
 </div>
 
@@ -153,7 +167,7 @@ for evaluating their approach.
 
 <div class="col-lg-12" markdown="1">
 
-- I play a little Harmonica ([Blues harp](https://en.wikipedia.org/wiki/Richter-tuned_harmonica) and [Chromatic](https://en.wikipedia.org/wiki/Chromatic_harmonica)) and Piano, non-professional, just for enjoyment.
+- I play a little Harmonica ([Blues harp](https://en.wikipedia.org/wiki/Richter-tuned_harmonica) and [Chromatic](https://en.wikipedia.org/wiki/Chromatic_harmonica)), Piano, and Guitar, non-professional, just for enjoyment.
 
 </div>
 

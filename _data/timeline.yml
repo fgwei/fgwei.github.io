@@ -1,3 +1,11 @@
+- name: "R&D Intern"
+  place: "JD.com"
+  website: "http://www.jd.com/"
+  icon: 'fa fa-code fa-fw'
+  title: 'Work'
+  date: 'Sep. 2017 - Present'
+  desc: >
+          Design Web/Android/IOS security checker for Coverity.
 - name: "Paper Presentation"
   place: "DIMVA'17"
   website: "https://itsec.cs.uni-bonn.de/dimva2017/index.html"
@@ -11,9 +19,9 @@
   website: "https://www.synopsys.com/"
   icon: 'fa fa-code fa-fw'
   title: 'Work'
-  date: 'May. 2017 - Present'
+  date: 'May. 2017 - Aug. 2017'
   desc: >
-          Design Android&IOS security checker for Coverity.
+          Design Web/Android/IOS security checker for Coverity.
 - name: "Research Assisstant"
   place: "ArgusLab"
   website: "http://www.arguslab.org/"
