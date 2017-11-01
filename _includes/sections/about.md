@@ -104,9 +104,9 @@ institute world-wide.
 <div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
   <h4>JD.com American Technologies Corporation, Santa Clara, CA</h4>
   **Research & Development Intern**, Sep 2017 - Nov 2017\\
-  Supervisor: Yueh-Hsun Lin
+  Supervisor: Yueh-Hsun Lin, Manager: Jimmy Su
   
-  I am working in the security group and doing code analysis related research.
+  I am doing code review for JD’s web framework and applications to identify vulnerabilities. I am also doing hybrid code analysis research to provide automation solutions for java vulnerability finding.
   
 </div>
 
