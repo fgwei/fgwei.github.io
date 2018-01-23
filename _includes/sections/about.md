@@ -43,8 +43,8 @@ we applied certain security applications on popular Android apps, and the result
 is capable of finding real security issues and efficient enough in terms of analysis time. 
 Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/).
 The Amandroid tool has been downloaded over 10,000 times as of Sep 2017 and
-become foundation of many research projects (cited over 180 times as of Sep
-2017).
+become foundation of many research projects (cited over 210 times as of Jan
+2018).
 
 </div>
 <div class="col-lg-12" markdown="1">
@@ -70,7 +70,7 @@ which provides the Android malware research community
 a better ground truth dataset, 
 a.k.a. [Android Malware Dataset (AMD)](http://amd.arguslab.org/),
 for evaluating their approach.
-AMD have been shared with 50 research
+AMD have been shared with 100 research
 institute world-wide.
     
 </div></div>
