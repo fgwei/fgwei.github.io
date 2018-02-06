@@ -75,22 +75,53 @@ institute world-wide.
     
 </div></div>
 </div></div>
+
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
+    <div class="wow animated fadeIn" markdown="1">
+
+## Publication
+
+<div class="col-lg-12 bs-callout bs-callout-primary">
+  <h4>Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps.</h4>
+  <p markdown="1">**Fengguo Wei**, Sankardas Roy, Xinming Ou, Robby. 
+  
+  ACM Transactions on Privacy and Security. (TOPS 2018) 
+  
+  **A significantly enhanced version of our Amandroid CCS 2014.**</p>
+</div>
+
+<div class="col-lg-12 bs-callout bs-callout-primary">
+  <h4><a href="http://www.fengguow.com/resources/papers/AMD-DIMVA17.pdf">Deep Ground Truth Analysis of Current Android Malware.</a></h4>
+  <p markdown="1">**Fengguo Wei**, Yuping Li, Sankardas Roy, Xinming Ou, and Wu Zhou.
+   
+   In the 14th Conference on Detection of Intrusions and Malware & Vulnerability Assessment. (DIMVA 2017)</p>
+</div>
+
+<div class="col-lg-12 bs-callout bs-callout-primary">
+  <h4><a href="http://www.fengguow.com/resources/papers/AmandroidCCS14.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps.</a></h4>
+  <p markdown="1">**Fengguo Wei**, Sankardas Roy, Xinming Ou, Robby. 
+  
+  In the 21st ACM Conference on Computer and Communications Security. (CCS 2014)</p>
+</div>
+
+</div></div>
+
 <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
     <div class="wow animated fadeIn" markdown="1">
     
 ## Education
 
-<div class="col-lg-12 bs-callout bs-callout-primary">
+<div class="col-lg-12 bs-callout bs-callout-warning">
   <h4>University of South Florida, Tampa, FL, USA</h4>
   <p markdown="1">**Ph.D. student** in Computer Science, August 2015 – Present</p>
 </div>
 
-<div class="col-lg-12 bs-callout bs-callout-primary">
+<div class="col-lg-12 bs-callout bs-callout-warning">
   <h4>Kansas State University, Manhattan, KS, USA</h4>
   <p markdown="1">**Ph.D. student** in Computer Science, August 2012 - August 2015</p>
 </div>
 
-<div class="col-lg-12 bs-callout bs-callout-primary">
+<div class="col-lg-12 bs-callout bs-callout-warning">
   <h4>People’s Public Security University, Beijing, China</h4>
   <p markdown="1">**B.S.** in Computer Science, September 2008 - June 2012</p>
 </div>
@@ -101,7 +132,7 @@ institute world-wide.
 
 ## Industry Experience
 
-<div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
+<div class="col-lg-12 bs-callout bs-callout-default" markdown="1">
   <h4>JD.com American Technologies Corporation, Santa Clara, CA</h4>
   **Research & Development Intern**, Sep 2017 - Nov 2017\\
   Supervisor: Yueh-Hsun Lin, Manager: Jimmy Su
@@ -110,7 +141,7 @@ institute world-wide.
   
 </div>
 
-<div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
+<div class="col-lg-12 bs-callout bs-callout-default" markdown="1">
   <h4>SIG, Synopsys Inc, San Francisco, CA</h4>
   **Research & Development Intern**, May 2017 - August 2017\\
   Supervisor: Aaron Hurst, Manager: Timothy Alper
@@ -119,7 +150,7 @@ institute world-wide.
   
 </div>
 
-<div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
+<div class="col-lg-12 bs-callout bs-callout-default" markdown="1">
   <h4>B2B Lab, Samsung Research America, Mountain View, CA</h4>
   **Research & Development Intern**, January 2015 - July 2015\\
   Supervisor: Wu Zhou, Manager: Michael Grace
@@ -131,7 +162,7 @@ institute world-wide.
   
 </div>
 
-<div class="col-lg-12 bs-callout bs-callout-warning" markdown="1">
+<div class="col-lg-12 bs-callout bs-callout-default" markdown="1">
   <h4>China Academy of Launch Vehicle Technology, Beijing, China</h4>
   
   **Research Intern**, June 2011 – August 2011\\
