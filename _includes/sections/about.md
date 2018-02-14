@@ -104,6 +104,18 @@ institute world-wide.
   In the 21st ACM Conference on Computer and Communications Security. (CCS 2014)</p>
 </div>
 
+
+<p style="line-height:1">
+<font size="-2">
+The documents contained in these pages are included to ensure timely dissemination 
+of scholarly and technical work on a non-commercial basis. 
+Copyright and all rights therein are maintained by the authors or by other 
+copyright holders, notwithstanding that they have offered their works here electronically. 
+It is understood that all persons copying this information will adhere to the terms and constraints 
+invoked by each author's copyright. These works may not be reposted without the explicit permission 
+of the copyright holder.
+</font></p>
+
 </div></div>
 
 <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-571945cc8ecfb about-section">
