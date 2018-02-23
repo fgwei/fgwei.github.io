@@ -82,7 +82,7 @@ institute world-wide.
 ## Publication
 
 <div class="col-lg-12 bs-callout bs-callout-primary">
-  <h4>Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps.</h4>
+  <h4><a href="http://www.fengguow.com/resources/papers/AmandroidTOPS18.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps.</a></h4>
   <p markdown="1">**Fengguo Wei**, Sankardas Roy, Xinming Ou, Robby. 
   
   ACM Transactions on Privacy and Security. (TOPS 2018) 
