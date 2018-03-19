@@ -82,6 +82,13 @@ institute world-wide.
 ## Publication
 
 <div class="col-lg-12 bs-callout bs-callout-primary">
+  <h4><a>Automated Forensic Analysis of Mobile Applications on Android Devices.</a></h4>
+  <p markdown="1">Xiaodong Lin, Ting Chen, Tong Zhu, Kun Yang, **Fengguo Wei**. 
+  
+  In the 18th USA Digital Forensics Research Workshop. (DFRWS 2018)</p>
+</div>
+
+<div class="col-lg-12 bs-callout bs-callout-primary">
   <h4><a href="http://www.fengguow.com/resources/papers/AmandroidTOPS18.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps.</a></h4>
   <p markdown="1">**Fengguo Wei**, Sankardas Roy, Xinming Ou, Robby. 
   
