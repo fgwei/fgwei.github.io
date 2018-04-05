@@ -41,9 +41,10 @@ which does inter-component, flow-/context-sensitive data flow analysis.
 Based on [Amandroid](http://pag.arguslab.org/argus-saf),
 we applied certain security applications on popular Android apps, and the results shows that the tool 
 is capable of finding real security issues and efficient enough in terms of analysis time. 
-Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/).
-The Amandroid tool has been downloaded over 10,000 times as of Sep 2017 and
-become foundation of many research projects (cited over 210 times as of Jan
+Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/) and a significantly enhanced version
+is accepted by [TOPS 2018](https://tops.acm.org/).
+The Amandroid tool has been downloaded over 13,300 times as of Jan 2018 and
+become foundation of many research projects (cited over 230 times as of Apr
 2018).
 
 </div>
@@ -70,7 +71,7 @@ which provides the Android malware research community
 a better ground truth dataset, 
 a.k.a. [Android Malware Dataset (AMD)](http://amd.arguslab.org/),
 for evaluating their approach.
-AMD have been shared with 100 research
+AMD have been shared with 145 research
 institute world-wide.
     
 </div></div>
