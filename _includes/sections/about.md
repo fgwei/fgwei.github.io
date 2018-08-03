@@ -14,7 +14,9 @@
 
 <p style="margin-bottom:5px" markdown="1">
 
-I am a Ph.D. candidate in the department of Computer Science and Engineering at University of South Florida,
+I am currently a Software Engineer at [Google](https://www.google.com/), and working with the Mobile Malware Detection Group.
+
+I graduated with a Ph.D. in the department of Computer Science and Engineering at University of South Florida,
 and honored to be advised by [Dr.Xinming (Simon) Ou](http://www.cse.usf.edu/~xou/).
 Furthermore, I am a member of [Argus CyberSecurity Lab](http://www.arguslab.org/). 
 
@@ -36,15 +38,16 @@ My main research interests are in the areas of computer networks and security wi
 A large portion of those issues can be resolved by addressing one core problem – capturing semantic behaviors of the app 
 such as object points-to and control-/data-flow information. 
 Thus, we designed an approach to conducting static analysis for vetting Android apps, 
-and built a generic framework, called [Amandroid](http://pag.arguslab.org/argus-saf),
-which does inter-component, flow-/context-sensitive data flow analysis. 
-Based on [Amandroid](http://pag.arguslab.org/argus-saf),
+and built a generic framework, called [Argus-SAF](http://pag.arguslab.org/argus-saf),
+which does inter-component, flow-/context-sensitive data flow analysis.
+Based on [Argus-SAF](http://pag.arguslab.org/argus-saf),
 we applied certain security applications on popular Android apps, and the results shows that the tool 
 is capable of finding real security issues and efficient enough in terms of analysis time. 
 Our research paper is accepted by [CCS 2014](http://www.sigsac.org/ccs/CCS2014/) and a significantly enhanced version
 is accepted by [TOPS 2018](https://tops.acm.org/).
-The Amandroid tool has been downloaded over 13,300 times as of Jan 2018 and
-become foundation of many research projects (cited over 230 times as of Apr
+The JNI analysis part of Argus-SAF is published at [CCS 2018](https://www.sigsac.org/ccs/CCS2018/).
+The Argus-SAF tool has been downloaded over 13,300 times as of Jan 2018 and
+become foundation of many research projects (cited over 250 times as of Aug
 2018).
 
 </div>
@@ -81,6 +84,13 @@ institute world-wide.
     <div class="wow animated fadeIn" markdown="1">
 
 ## Publication
+
+<div class="col-lg-12 bs-callout bs-callout-primary">
+  <h4>JN-SAF: Precise and Efficient NDK/JNI-aware Inter-language Static Analysis Framework for Security Vetting of Android Applications with Native Code.</h4>
+  <p markdown="1">**Fengguo Wei**, Xingwei Lin, Xinming Ou, Ting Chen, Xiaosong Zhang. 
+  
+  In the 25th ACM Conference on Computer and Communications Security. (CCS 2018)</p>
+</div>
 
 <div class="col-lg-12 bs-callout bs-callout-primary">
   <h4><a>Automated Forensic Analysis of Mobile Applications on Android Devices.</a></h4>
@@ -133,7 +143,7 @@ of the copyright holder.
 
 <div class="col-lg-12 bs-callout bs-callout-warning">
   <h4>University of South Florida, Tampa, FL, USA</h4>
-  <p markdown="1">**Ph.D. student** in Computer Science, August 2015 – Present</p>
+  <p markdown="1">**Ph.D. student** in Computer Science, August 2015 – May 2018</p>
 </div>
 
 <div class="col-lg-12 bs-callout bs-callout-warning">
@@ -151,6 +161,15 @@ of the copyright holder.
     <div class="wow animated fadeIn" markdown="1">
 
 ## Industry Experience
+
+<div class="col-lg-12 bs-callout bs-callout-default" markdown="1">
+  <h4>Google, Mountain View, CA</h4>
+  **Software Engineer**, July 2018 - Present\\
+  Manager: Monirul Sharif
+  
+  Mobile malware detection.
+  
+</div>
 
 <div class="col-lg-12 bs-callout bs-callout-default" markdown="1">
   <h4>JD.com American Technologies Corporation, Santa Clara, CA</h4>
@@ -184,7 +203,6 @@ of the copyright holder.
 
 <div class="col-lg-12 bs-callout bs-callout-default" markdown="1">
   <h4>China Academy of Launch Vehicle Technology, Beijing, China</h4>
-  
   **Research Intern**, June 2011 – August 2011\\
   Supervisor: Shuliang Ren
   

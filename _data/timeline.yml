@@ -1,9 +1,25 @@
+- name: "Paper Presentation"
+  place: "CCS'18"
+  website: "https://www.sigsac.org/ccs/CCS2018/"
+  icon: 'fa fa-sign-language fa-fw'
+  title: 'Speak'
+  date: 'Oct. 2018'
+  desc: >
+          JN-SAF: Precise and Efficient NDK/JNI-aware Inter-language Static Analysis Framework for Security Vetting of Android Applications with Native Code
+- name: "Software Engineer"
+  place: "Google"
+  website: "https://www.google.com/"
+  icon: 'fa fa-code fa-fw'
+  title: 'Work'
+  date: 'Jul. 2018 - Present'
+  desc: >
+          Mobile Malware Detection.
 - name: "R&D Intern"
   place: "JD.com"
   website: "http://www.jd.com/"
   icon: 'fa fa-code fa-fw'
   title: 'Work'
-  date: 'Sep. 2017 - Present'
+  date: 'Sep. 2017 - Nov. 2017'
   desc: >
           Code analysis for JD's webapp.
 - name: "Paper Presentation"
@@ -22,7 +38,7 @@
   date: 'May. 2017 - Aug. 2017'
   desc: >
           Design Web/Android/IOS security checker for Coverity.
-- name: "Research Assisstant"
+- name: "Research Assistant"
   place: "ArgusLab"
   website: "http://www.arguslab.org/"
   icon: 'fa fa-search fa-fw'
@@ -31,7 +47,7 @@
   desc: >
           Design static analysis tool for Android framework.
           <br />Detecting framework level vulnerabilities.
-- name: "Research Assisstant"
+- name: "Research Assistant"
   place: "ArgusLab"
   website: "http://www.arguslab.org/"
   icon: 'fa fa-search fa-fw'
@@ -66,7 +82,7 @@
   date: 'Nov. 2015'
   desc: >
           <a href="http://www.fengguow.com/resources/papers/AmandroidCCS14.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps</a>
-- name: "Research Assisstant"
+- name: "Research Assistant"
   place: "ArgusLab"
   website: "http://www.arguslab.org/"
   icon: 'fa fa-search fa-fw'
