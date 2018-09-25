@@ -86,7 +86,7 @@ institute world-wide.
 ## Publication
 
 <div class="col-lg-12 bs-callout bs-callout-primary">
-  <h4>JN-SAF: Precise and Efficient NDK/JNI-aware Inter-language Static Analysis Framework for Security Vetting of Android Applications with Native Code.</h4>
+  <h4><a href="http://www.fengguow.com/resources/papers/JN-SafCCS18.pdf">JN-SAF: Precise and Efficient NDK/JNI-aware Inter-language Static Analysis Framework for Security Vetting of Android Applications with Native Code.</a></h4>
   <p markdown="1">**Fengguo Wei**, Xingwei Lin, Xinming Ou, Ting Chen, Xiaosong Zhang. 
   
   In the 25th ACM Conference on Computer and Communications Security. (CCS 2018)</p>
