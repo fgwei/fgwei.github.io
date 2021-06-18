@@ -86,7 +86,7 @@ institute world-wide.
 ## Publication
 
 <div class="col-lg-12 bs-callout bs-callout-primary">
-  <h4><a href="http://www.fengguow.com/resources/papers/JN-SafCCS18.pdf">JN-SAF: Precise and Efficient NDK/JNI-aware Inter-language Static Analysis Framework for Security Vetting of Android Applications with Native Code.</a></h4>
+  <h4><a href="http://www.fengguow.dev/resources/papers/JN-SafCCS18.pdf">JN-SAF: Precise and Efficient NDK/JNI-aware Inter-language Static Analysis Framework for Security Vetting of Android Applications with Native Code.</a></h4>
   <p markdown="1">**Fengguo Wei**, Xingwei Lin, Xinming Ou, Ting Chen, Xiaosong Zhang. 
   
   In the 25th ACM Conference on Computer and Communications Security. (CCS 2018)</p>
@@ -100,7 +100,7 @@ institute world-wide.
 </div>
 
 <div class="col-lg-12 bs-callout bs-callout-primary">
-  <h4><a href="http://www.fengguow.com/resources/papers/AmandroidTOPS18.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps.</a></h4>
+  <h4><a href="http://www.fengguow.dev/resources/papers/AmandroidTOPS18.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps.</a></h4>
   <p markdown="1">**Fengguo Wei**, Sankardas Roy, Xinming Ou, Robby. 
   
   ACM Transactions on Privacy and Security. (TOPS 2018) 
@@ -109,14 +109,14 @@ institute world-wide.
 </div>
 
 <div class="col-lg-12 bs-callout bs-callout-primary">
-  <h4><a href="http://www.fengguow.com/resources/papers/AMD-DIMVA17.pdf">Deep Ground Truth Analysis of Current Android Malware.</a></h4>
+  <h4><a href="http://www.fengguow.dev/resources/papers/AMD-DIMVA17.pdf">Deep Ground Truth Analysis of Current Android Malware.</a></h4>
   <p markdown="1">**Fengguo Wei**, Yuping Li, Sankardas Roy, Xinming Ou, and Wu Zhou.
    
    In the 14th Conference on Detection of Intrusions and Malware & Vulnerability Assessment. (DIMVA 2017)</p>
 </div>
 
 <div class="col-lg-12 bs-callout bs-callout-primary">
-  <h4><a href="http://www.fengguow.com/resources/papers/AmandroidCCS14.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps.</a></h4>
+  <h4><a href="http://www.fengguow.dev/resources/papers/AmandroidCCS14.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps.</a></h4>
   <p markdown="1">**Fengguo Wei**, Sankardas Roy, Xinming Ou, Robby. 
   
   In the 21st ACM Conference on Computer and Communications Security. (CCS 2014)</p>
