@@ -29,7 +29,7 @@
   title: 'Speak'
   date: 'Jul. 2017'
   desc: >
-          <a href="http://www.fengguow.com/resources/papers/AMD-DIMVA17.pdf">Deep Ground Truth Analysis of Current Android Malware</a>
+          <a href="http://www.fengguow.dev/resources/papers/AMD-DIMVA17.pdf">Deep Ground Truth Analysis of Current Android Malware</a>
 - name: "R&D Intern"
   place: "Synopsys"
   website: "https://www.synopsys.com/"
@@ -81,7 +81,7 @@
   title: 'Speak'
   date: 'Nov. 2015'
   desc: >
-          <a href="http://www.fengguow.com/resources/papers/AmandroidCCS14.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps</a>
+          <a href="http://www.fengguow.dev/resources/papers/AmandroidCCS14.pdf">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps</a>
 - name: "Research Assistant"
   place: "ArgusLab"
   website: "http://www.arguslab.org/"
